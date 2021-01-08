@@ -1,0 +1,14 @@
+{
+    "name": "Markdown with Syntax Highlighting",
+    "slug": "markdown-with-syntax-highlighting",
+    "version": "0.1.0",
+    "download_url": "https://wp-plugins.yukiyuriweb.com/markdown-with-syntax-highlighting/markdown-with-syntax-highlighting.0.1.0.zip",
+    "sections": {
+        "description": "<h1>CHANGELOG</h1><h2>v0.1.0</h2><ul><li>Alpha release.</ul>"
+    },
+    "homepage": "https://wp-plugins.yukiyuriweb.com/markdown-with-syntax-highlighting",
+    "requres": "7.1.3",
+    "author": "YUKiYURi WEB",
+    "author_homepage": "https://yukiyuriweb.com",
+    "last_updated": "2021-01-08 13:09:10"
+}

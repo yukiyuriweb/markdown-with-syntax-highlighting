@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"phpcs.enable": true,
+		"phpcs.standard": "WordPress",
+		"phpcbf.enable": true,
+		"phpcbf.standard": "WordPress",
+		"phpcbf.onsave": true,
+	}
+}
